@@ -1,0 +1,13 @@
+product_id,brand,model,unit_cost,list_price
+1,Apple,iPhone 15,570.0,799.0
+2,Apple,iPhone 16,640.0,899.0
+3,Apple,iPhone 16 Pro,790.0,1099.0
+4,Samsung,Galaxy S24,545.0,799.0
+5,Samsung,Galaxy S25,620.0,899.0
+6,Samsung,Galaxy A55,290.0,449.0
+7,Google,Pixel 8,390.0,599.0
+8,Google,Pixel 9,520.0,799.0
+9,OnePlus,OnePlus 12,460.0,699.0
+10,OnePlus,OnePlus 13,610.0,899.0
+11,Motorola,Moto G Power,175.0,299.0
+12,Motorola,Edge 50,350.0,549.0

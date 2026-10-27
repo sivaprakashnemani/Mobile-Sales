@@ -1,0 +1,251 @@
+customer_id,customer_name,city,state
+1,Customer 001,Columbus,OH
+2,Customer 002,Cleveland,OH
+3,Customer 003,Austin,TX
+4,Customer 004,Dallas,TX
+5,Customer 005,Dallas,TX
+6,Customer 006,Chicago,IL
+7,Customer 007,Columbus,OH
+8,Customer 008,Atlanta,GA
+9,Customer 009,Columbus,OH
+10,Customer 010,Miami,FL
+11,Customer 011,Seattle,WA
+12,Customer 012,Cleveland,OH
+13,Customer 013,Cleveland,OH
+14,Customer 014,Columbus,OH
+15,Customer 015,Dallas,TX
+16,Customer 016,Dallas,TX
+17,Customer 017,Atlanta,GA
+18,Customer 018,Miami,FL
+19,Customer 019,Cleveland,OH
+20,Customer 020,Atlanta,GA
+21,Customer 021,Dallas,TX
+22,Customer 022,Atlanta,GA
+23,Customer 023,Seattle,WA
+24,Customer 024,Dallas,TX
+25,Customer 025,Los Angeles,CA
+26,Customer 026,Miami,FL
+27,Customer 027,Austin,TX
+28,Customer 028,Cleveland,OH
+29,Customer 029,Chicago,IL
+30,Customer 030,Seattle,WA
+31,Customer 031,New York,NY
+32,Customer 032,Austin,TX
+33,Customer 033,Chicago,IL
+34,Customer 034,Dallas,TX
+35,Customer 035,New York,NY
+36,Customer 036,Columbus,OH
+37,Customer 037,Columbus,OH
+38,Customer 038,Seattle,WA
+39,Customer 039,Columbus,OH
+40,Customer 040,New York,NY
+41,Customer 041,New York,NY
+42,Customer 042,Miami,FL
+43,Customer 043,Austin,TX
+44,Customer 044,Cleveland,OH
+45,Customer 045,Los Angeles,CA
+46,Customer 046,Atlanta,GA
+47,Customer 047,Columbus,OH
+48,Customer 048,Seattle,WA
+49,Customer 049,Columbus,OH
+50,Customer 050,Atlanta,GA
+51,Customer 051,Austin,TX
+52,Customer 052,Miami,FL
+53,Customer 053,New York,NY
+54,Customer 054,Miami,FL
+55,Customer 055,Dallas,TX
+56,Customer 056,Columbus,OH
+57,Customer 057,Cleveland,OH
+58,Customer 058,Dallas,TX
+59,Customer 059,Austin,TX
+60,Customer 060,Columbus,OH
+61,Customer 061,Dallas,TX
+62,Customer 062,Columbus,OH
+63,Customer 063,Seattle,WA
+64,Customer 064,Austin,TX
+65,Customer 065,Los Angeles,CA
+66,Customer 066,New York,NY
+67,Customer 067,Chicago,IL
+68,Customer 068,New York,NY
+69,Customer 069,New York,NY
+70,Customer 070,Dallas,TX
+71,Customer 071,Austin,TX
+72,Customer 072,Columbus,OH
+73,Customer 073,Miami,FL
+74,Customer 074,Chicago,IL
+75,Customer 075,Atlanta,GA
+76,Customer 076,Dallas,TX
+77,Customer 077,Chicago,IL
+78,Customer 078,Los Angeles,CA
+79,Customer 079,Seattle,WA
+80,Customer 080,Austin,TX
+81,Customer 081,Atlanta,GA
+82,Customer 082,Dallas,TX
+83,Customer 083,New York,NY
+84,Customer 084,Cleveland,OH
+85,Customer 085,Dallas,TX
+86,Customer 086,Cleveland,OH
+87,Customer 087,New York,NY
+88,Customer 088,Seattle,WA
+89,Customer 089,Austin,TX
+90,Customer 090,Columbus,OH
+91,Customer 091,Dallas,TX
+92,Customer 092,Miami,FL
+93,Customer 093,New York,NY
+94,Customer 094,Dallas,TX
+95,Customer 095,Los Angeles,CA
+96,Customer 096,Seattle,WA
+97,Customer 097,Los Angeles,CA
+98,Customer 098,Chicago,IL
+99,Customer 099,Austin,TX
+100,Customer 100,Chicago,IL
+101,Customer 101,Dallas,TX
+102,Customer 102,Atlanta,GA
+103,Customer 103,Atlanta,GA
+104,Customer 104,Austin,TX
+105,Customer 105,Miami,FL
+106,Customer 106,Seattle,WA
+107,Customer 107,Miami,FL
+108,Customer 108,Seattle,WA
+109,Customer 109,New York,NY
+110,Customer 110,Dallas,TX
+111,Customer 111,Chicago,IL
+112,Customer 112,Atlanta,GA
+113,Customer 113,Los Angeles,CA
+114,Customer 114,Columbus,OH
+115,Customer 115,Cleveland,OH
+116,Customer 116,Columbus,OH
+117,Customer 117,Chicago,IL
+118,Customer 118,Chicago,IL
+119,Customer 119,Seattle,WA
+120,Customer 120,Miami,FL
+121,Customer 121,Columbus,OH
+122,Customer 122,Seattle,WA
+123,Customer 123,Seattle,WA
+124,Customer 124,Miami,FL
+125,Customer 125,Los Angeles,CA
+126,Customer 126,Atlanta,GA
+127,Customer 127,Austin,TX
+128,Customer 128,Atlanta,GA
+129,Customer 129,Cleveland,OH
+130,Customer 130,Columbus,OH
+131,Customer 131,Atlanta,GA
+132,Customer 132,Austin,TX
+133,Customer 133,New York,NY
+134,Customer 134,Columbus,OH
+135,Customer 135,Austin,TX
+136,Customer 136,Seattle,WA
+137,Customer 137,Chicago,IL
+138,Customer 138,Los Angeles,CA
+139,Customer 139,Cleveland,OH
+140,Customer 140,Austin,TX
+141,Customer 141,Atlanta,GA
+142,Customer 142,Chicago,IL
+143,Customer 143,Atlanta,GA
+144,Customer 144,Columbus,OH
+145,Customer 145,Austin,TX
+146,Customer 146,Atlanta,GA
+147,Customer 147,Miami,FL
+148,Customer 148,Dallas,TX
+149,Customer 149,Chicago,IL
+150,Customer 150,New York,NY
+151,Customer 151,Chicago,IL
+152,Customer 152,Atlanta,GA
+153,Customer 153,Atlanta,GA
+154,Customer 154,Cleveland,OH
+155,Customer 155,Miami,FL
+156,Customer 156,New York,NY
+157,Customer 157,Los Angeles,CA
+158,Customer 158,Cleveland,OH
+159,Customer 159,Columbus,OH
+160,Customer 160,New York,NY
+161,Customer 161,Austin,TX
+162,Customer 162,Dallas,TX
+163,Customer 163,Cleveland,OH
+164,Customer 164,Dallas,TX
+165,Customer 165,Miami,FL
+166,Customer 166,Columbus,OH
+167,Customer 167,Columbus,OH
+168,Customer 168,Los Angeles,CA
+169,Customer 169,Columbus,OH
+170,Customer 170,Atlanta,GA
+171,Customer 171,Chicago,IL
+172,Customer 172,Chicago,IL
+173,Customer 173,Los Angeles,CA
+174,Customer 174,Atlanta,GA
+175,Customer 175,Chicago,IL
+176,Customer 176,Austin,TX
+177,Customer 177,Atlanta,GA
+178,Customer 178,Miami,FL
+179,Customer 179,Seattle,WA
+180,Customer 180,Dallas,TX
+181,Customer 181,Atlanta,GA
+182,Customer 182,Dallas,TX
+183,Customer 183,Austin,TX
+184,Customer 184,Seattle,WA
+185,Customer 185,New York,NY
+186,Customer 186,Los Angeles,CA
+187,Customer 187,Atlanta,GA
+188,Customer 188,Los Angeles,CA
+189,Customer 189,Columbus,OH
+190,Customer 190,Dallas,TX
+191,Customer 191,Dallas,TX
+192,Customer 192,Columbus,OH
+193,Customer 193,New York,NY
+194,Customer 194,Cleveland,OH
+195,Customer 195,Miami,FL
+196,Customer 196,Atlanta,GA
+197,Customer 197,Dallas,TX
+198,Customer 198,Miami,FL
+199,Customer 199,Dallas,TX
+200,Customer 200,Cleveland,OH
+201,Customer 201,Columbus,OH
+202,Customer 202,Cleveland,OH
+203,Customer 203,Dallas,TX
+204,Customer 204,Columbus,OH
+205,Customer 205,Cleveland,OH
+206,Customer 206,New York,NY
+207,Customer 207,Columbus,OH
+208,Customer 208,Atlanta,GA
+209,Customer 209,Dallas,TX
+210,Customer 210,Austin,TX
+211,Customer 211,Los Angeles,CA
+212,Customer 212,Dallas,TX
+213,Customer 213,Atlanta,GA
+214,Customer 214,Chicago,IL
+215,Customer 215,Miami,FL
+216,Customer 216,Miami,FL
+217,Customer 217,Los Angeles,CA
+218,Customer 218,Dallas,TX
+219,Customer 219,Los Angeles,CA
+220,Customer 220,Seattle,WA
+221,Customer 221,Dallas,TX
+222,Customer 222,Columbus,OH
+223,Customer 223,Columbus,OH
+224,Customer 224,Seattle,WA
+225,Customer 225,New York,NY
+226,Customer 226,Seattle,WA
+227,Customer 227,Seattle,WA
+228,Customer 228,Los Angeles,CA
+229,Customer 229,Cleveland,OH
+230,Customer 230,Columbus,OH
+231,Customer 231,Cleveland,OH
+232,Customer 232,Seattle,WA
+233,Customer 233,New York,NY
+234,Customer 234,Columbus,OH
+235,Customer 235,Dallas,TX
+236,Customer 236,Dallas,TX
+237,Customer 237,Dallas,TX
+238,Customer 238,Atlanta,GA
+239,Customer 239,Los Angeles,CA
+240,Customer 240,Chicago,IL
+241,Customer 241,Seattle,WA
+242,Customer 242,Chicago,IL
+243,Customer 243,Austin,TX
+244,Customer 244,Los Angeles,CA
+245,Customer 245,Dallas,TX
+246,Customer 246,Columbus,OH
+247,Customer 247,Los Angeles,CA
+248,Customer 248,Atlanta,GA
+249,Customer 249,Columbus,OH
+250,Customer 250,Cleveland,OH
